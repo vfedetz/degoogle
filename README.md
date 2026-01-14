@@ -1,10 +1,14 @@
 # List of Privacy Focused Software I Use
 
-Having control over your data and digital privacy is increasingly important in today's world. Consumer data privacy rights are basically non-existant in the United States, and closed-source commercial software is [enshittifying](https://en.wikipedia.org/wiki/Enshittification) at an alarming rate. In a hostile anti-consumer environment such as this, the only logical option is focusing on self hosted and community-driven open source software projects as much as you can.
+Having control over your data and protecting your privacy has never been more important. In the United States, consumer data privacy rights are virtually nonexistent, and many closed-source commercial platforms are rapidly [enshittifying](https://en.wikipedia.org/wiki/Enshittification).
+
+In this hostile, anti-consumer environment, the most logical response is to rely—as much as possible on self-hosted and community-driven open-source software.
 
 My goal was to be more intentional with the software I chose to trust with my data and rely on daily. I have slowly replaced as much of the closed-source commercial software as I can with open-source, privacy-focused alternatives.
 
-[Privacy Guides](https://www.privacyguides.org/) is an excellent resource for finding privacy-focused software alternatives which I referenced heavily when exploring software options. Please treat this list as a supplementary guide, showcasing what I ultimately chose for my own journey towards digital independance.
+My goal has been to be intentional about the tools I trust with my personal data and depend on daily. Over time, I’ve replaced nearly all closed-source commercial software with open-source, privacy-respecting alternatives.
+
+I leaned on [Privacy Guides](https://www.privacyguides.org/) while making these choices which is an excellent, independent resource for vetting privacy-focused tools. Consider this list a supplement to their recommendations. After exploring many alternatives, this is the software stack I’ve adopted on my journey toward greater digital independence.
 
 | <span style="color: rgb(45, 194, 107);">Function</span> | <span style="color: rgb(45, 194, 107);">App</span> | <span style="color: rgb(45, 194, 107);">Open Source?</span> | <span style="color: rgb(45, 194, 107);">Notes</span> |
 | --- | --- | --- | --- |
