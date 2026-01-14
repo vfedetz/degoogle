@@ -14,7 +14,7 @@ My goal was to be more intentional with the software I chose to trust with my da
 | YouTube | Grayjay | yes | Supports sponsor block and dislike. Does not support dearrow. Alt: LibreTube (Mobile) Alt: FreeTube (Desktop) Alt: Revanced |
 | Secure Messaging | Signal | yes |     |
 | SMS | QUIK | yes |     |
-| App Store | GrapheneOS App Store > Accescent > Obtainium > Aurora Store | yes | Listed in order of preference. Obtainium can pull F Droid releases. |
+| App Store | GrapheneOS App Store > <br />Accescent > <br />Obtainium > <br />Aurora Store | yes | Listed in order of preference. Obtainium can pull F Droid releases. |
 | Email Server | Fastmail.com | no  |     |
 | Email Client (Mobile) | Thunderbird | yes |     |
 | Email Client (Desktop) | Thunderbird | yes |     |
