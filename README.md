@@ -1,5 +1,4 @@
-# degoogle
-A list of privacy-focused alternatives to Google services and other anti-consumer software.
+# My List of Privacy Focused Software
 
 Having control over your data and digital privacy is increasingly important in today's world. Consumer data privacy rights are basically non-existant in the United States, and closed-source commercial software is [enshittifying](https://en.wikipedia.org/wiki/Enshittification) at an alarming rate. In a hostile anti-consumer environment such as this, the only logical option is focusing on self hosted and community-driven open source software projects as much as you can.
 
