@@ -2,7 +2,7 @@
 
 Having control over your data and protecting your privacy has never been more important. In the United States, consumer data privacy rights are virtually nonexistent, and many closed-source commercial platforms are rapidly [enshittifying](https://en.wikipedia.org/wiki/Enshittification).
 
-In this hostile, anti-consumer environment, the most logical response is to rely—as much as possible on self-hosted and community-driven open-source software.
+In this hostile, anti-consumer environment, the most logical response is to rely as much as possible on self-hosted and community-driven open-source software.
 
 My goal was to be more intentional with the software I chose to trust with my data and rely on daily. I have slowly replaced as much of the closed-source commercial software as I can with open-source, privacy-focused alternatives.
 
