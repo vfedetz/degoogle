@@ -9,8 +9,10 @@ My goal was to be more intentional with the software I chose to trust with my da
 | <span style="color: rgb(45, 194, 107);">Function</span> | <span style="color: rgb(45, 194, 107);">App</span> | <span style="color: rgb(45, 194, 107);">Open Source?</span> | <span style="color: rgb(45, 194, 107);">Notes</span> |
 | --- | --- | --- | --- |
 | Mobile OS | GrapheneOS | yes |     |
+| Launcher | Lawnchair 2 | yes |     |
+| Desktop OS | Linux Mint | yes |     |
 | Maps | CoMaps | yes | Alt: Magic Earth (not open source) Alt: Organic Maps (shady devs) |
-| Local Business Search | GMapsWV | yes | WebView wrapper for accessing the web version of Google Maps |
+| Business Search | GMapsWV | yes | WebView wrapper for accessing the web version of Google Maps. <br />Search destination and import into CoMaps for navigation. |
 | YouTube | Grayjay | yes | Supports sponsor block and dislike. Does not support dearrow. Alt: LibreTube (Mobile) Alt: FreeTube (Desktop) Alt: Revanced |
 | Secure Messaging | Signal | yes |     |
 | SMS | QUIK | yes |     |
@@ -20,13 +22,12 @@ My goal was to be more intentional with the software I chose to trust with my da
 | Email Client (Desktop) | Thunderbird | yes |     |
 | Email Aliasing | Addy.io | yes |     |
 | Email Domain | Cloudflare | N/A | purchased @surname.com |
-| Search | SearXNG | yes | selfhosted behind VPN proxy to hide IP |
-| DNS | LAN: AdGuard Home <br />Mobile: Tailscale Exit Node |     |     |
+| Search | SearXNG | yes | selfhosted search aggregator placed behind VPN proxy to hide IP |
+| DNS | LAN: AdGuard Home <br />Mobile: Tailscale Exit Node | yes | AGH forwards to Unbound recursive resolver |
 | Tasks | CalDAV Server: radicale <br />Mobile: Tasks.org/Davx5 <br />Desktop: Thunderbird | yes |     |
 | Translate | DeepL | yes |     |
 | Calendar | CalDAV Server: Radicale <br />Mobile: Fossify Calendar/Davx5 <br />Desktop: Thunderbird | yes |     |
 | Contacts | CalDAV Server: Radicale <br />Mobile: Fossify Contacts/Davx5 <br />Desktop: Thunderbird | yes |     |
-| Launcher | Lawnchair 2 | yes |     |
 | Notes | Joplin | yes |     |
 | Browser | Mobile: Vanadium <br />Desktop: Librewolf | yes |     |
 | Photo Storage/Backup | Immich | yes |     |
@@ -35,7 +36,6 @@ My goal was to be more intentional with the software I chose to trust with my da
 | Push Notifications | Gotify | yes |     |
 | Password Manager | Vaultwarden | yes |     |
 | Authenticator | Bitwarden Authenticator/Aegis | yes | Aegis holds TOTP for Bitwarden itself and email account to avoid circular dependency |
-| Desktop OS | Linux Mint | yes |     |
 | Location Tracking | OwnTracks | yes | publishes to self hosted MQTT server
 | File Manager | Material Files | yes |     |
 | Gallery | Aves Gallery Libre | yes |     |
@@ -43,3 +43,4 @@ My goal was to be more intentional with the software I chose to trust with my da
 | Weather | Breezy Weather | yes |     |
 | Location Tracking | OwnTracks | yes |     |
 | Chromecast | Fcast | yes |     |
+| Media Server | Jellyfin | yes |  |
