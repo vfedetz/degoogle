@@ -21,14 +21,14 @@ My goal was to be more intentional with the software I chose to trust with my da
 | Email Aliasing | Addy.io | yes |     |
 | Email Domain | Cloudflare | N/A | purchased @surname.com |
 | Search | SearXNG | yes | selfhosted behind VPN proxy to hide IP |
-| DNS | LAN: AdGuard Home Mobile: Tailscale Exit Node |     |     |
-| Tasks | CalDAV Server: radicale Mobile: Tasks.org/Davx5 Desktop: Thunderbird | yes |     |
+| DNS | LAN: AdGuard Home <br />Mobile: Tailscale Exit Node |     |     |
+| Tasks | CalDAV Server: radicale <br />Mobile: Tasks.org/Davx5 <br />Desktop: Thunderbird | yes |     |
 | Translate | DeepL | yes |     |
-| Calendar | CalDAV Server: Radicale Mobile: Fossify Calendar/Davx5 Desktop: Thunderbird | yes |     |
-| Contacts | CalDAV Server: Radicale Mobile: Fossify Contacts/Davx5 Desktop: Thunderbird | yes |     |
+| Calendar | CalDAV Server: Radicale <br />Mobile: Fossify Calendar/Davx5 <br />Desktop: Thunderbird | yes |     |
+| Contacts | CalDAV Server: Radicale <br />Mobile: Fossify Contacts/Davx5 <br />Desktop: Thunderbird | yes |     |
 | Launcher | Lawnchair 2 | yes |     |
 | Notes | Joplin | yes |     |
-| Browser | Mobile: Vanadium Desktop: Librewolf | yes |     |
+| Browser | Mobile: Vanadium <br />Desktop: Librewolf | yes |     |
 | Photo Storage/Backup | Immich | yes |     |
 | Mobile Keyboard | FUTO Keyboard | yes |     |
 | Music Player | Findroid | yes | doesn't have auto transcode when roaming, no smart playlist downloading |
