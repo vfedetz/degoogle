@@ -36,6 +36,7 @@ My goal was to be more intentional with the software I chose to trust with my da
 | Password Manager | Vaultwarden | yes |     |
 | Authenticator | Bitwarden Authenticator/Aegis | yes | Aegis holds TOTP for Bitwarden itself and email account to avoid circular dependency |
 | Desktop OS | Linux Mint | yes |     |
+| Location Tracking | OwnTracks | yes | publishes to self hosted MQTT server
 | File Manager | Material Files | yes |     |
 | Gallery | Aves Gallery Libre | yes |     |
 | Smart Home | Home Assistant | yes |     |
